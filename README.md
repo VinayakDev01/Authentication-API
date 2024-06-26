@@ -6,6 +6,11 @@ Task : You are working with an amazing team that develops a super popular mobile
 Overview:
 In this assignment, I have developed an authentication API using ASP.Net Core MVC. The API is designed in way to handle user authentication via OAuth, issue JWT tokens containing user roles and system regions, and return the appropriate access information. The implementation is using static data for user information and structured to demonstrate best practices in terms of security, scalability, and maintainability. 
 
+## Features
+- User login with JWT token generation
+- Role-based access control
+- Static user data for simplicity
+  
 Structure of the Authentication API:
 I have used the following structure (MVC) to create the API for the Authentication of users: 
 •	Controllers: Controllers are used to contains the API controllers.
