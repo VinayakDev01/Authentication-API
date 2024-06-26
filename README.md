@@ -11,7 +11,7 @@ In this assignment, I have developed an authentication API using ASP.Net Core MV
 - Role-based access control
 - Static user data for simplicity
   
-Structure of the Authentication API:
+## Structure of the Authentication API:
 I have used the following structure (MVC) to create the API for the Authentication of users: 
 •	Controllers: Controllers are used to contains the API controllers.
 •	Models: Models are used to contains the data models.
@@ -20,7 +20,7 @@ I have used the following structure (MVC) to create the API for the Authenticati
 •	Program.cs:  This is the source code file which is executing for entry point of the application.
 •	Startup.cs: This source code file has been created to configure the application services and middleware.
 
-Implementation Details:
+## Implementation Details:
 1.	First of all we need to setup the ASP.Net Core MVC Project for Authentication API creation.
 •	Create a new ASP.Net Core Web API project by using any tool like VS Code or you may use command prompt as well.
 Commands:
